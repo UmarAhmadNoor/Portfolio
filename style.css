@@ -153,6 +153,9 @@ h2 {
 .cont {
     margin-top: 3%;
     margin-left: 2px;
+    display:flex;
+    justify-content:center;
+    align-items:center;
      
 }
 
